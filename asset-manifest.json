@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactStyledComponents/static/css/main.a5066cf2.chunk.css",
+    "main.js": "/reactStyledComponents/static/js/main.0e20f915.chunk.js",
+    "main.js.map": "/reactStyledComponents/static/js/main.0e20f915.chunk.js.map",
+    "runtime-main.js": "/reactStyledComponents/static/js/runtime-main.dbb6b23d.js",
+    "runtime-main.js.map": "/reactStyledComponents/static/js/runtime-main.dbb6b23d.js.map",
+    "static/js/2.5831a7af.chunk.js": "/reactStyledComponents/static/js/2.5831a7af.chunk.js",
+    "static/js/2.5831a7af.chunk.js.map": "/reactStyledComponents/static/js/2.5831a7af.chunk.js.map",
+    "index.html": "/reactStyledComponents/index.html",
+    "precache-manifest.d0d4b0e72a7658d0c79015953ccf526b.js": "/reactStyledComponents/precache-manifest.d0d4b0e72a7658d0c79015953ccf526b.js",
+    "service-worker.js": "/reactStyledComponents/service-worker.js",
+    "static/css/main.a5066cf2.chunk.css.map": "/reactStyledComponents/static/css/main.a5066cf2.chunk.css.map",
+    "static/js/2.5831a7af.chunk.js.LICENSE.txt": "/reactStyledComponents/static/js/2.5831a7af.chunk.js.LICENSE.txt",
+    "static/media/padlock.svg": "/reactStyledComponents/static/media/padlock.d964e0b3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbb6b23d.js",
+    "static/js/2.5831a7af.chunk.js",
+    "static/css/main.a5066cf2.chunk.css",
+    "static/js/main.0e20f915.chunk.js"
+  ]
+}
